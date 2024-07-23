@@ -1,5 +1,5 @@
 {
-    "name": "airalo/sdk",
+    "name": "afzalaffu/airalo-php-sdk",
     "description": "Airalo's Partner API PHP SDK",
     "type": "project",
     "require": {
